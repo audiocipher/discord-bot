@@ -1,0 +1,19 @@
+{
+  "name": "rem",
+  "version": "0.0.1",
+  "description": "Best Girl Rem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "audiocipher",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "cheerio": "^0.22.0",
+    "deep-diff": "^0.3.8",
+    "discord.js": "^11.1.0",
+    "moment": "^2.18.1",
+    "request": "^2.81.0"
+  }
+}

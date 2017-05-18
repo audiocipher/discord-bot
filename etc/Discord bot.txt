@@ -1,0 +1,8 @@
+Discord bot!
+
+Name: ~Rem
+
+*in order for the purge command to work, Rem must be given manage messages permissions
+
+*make it so that if someone tries to change Rem's name, it changes back automatically
+
